@@ -1,3 +1,4 @@
 # demo
-Learning git
-Author - Ravikant Mishra
+Learning git.
+<br>
+Author - Ravikant Mishra.
